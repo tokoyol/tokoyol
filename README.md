@@ -1,8 +1,8 @@
 # Lynn Tokoyoda
 
-CS student at Rose-Hulman Institute of Technology (Class of 2027). Currently interning as a Unity engineer at [neconome](https://neconome.jp) in Tokyo. Trilingual — English, Japanese, Chinese.
+CS student at Rose-Hulman Institute of Technology (Class of 2027). Currently interning as a Unity engineer at [neconome](https://neconome.co.jp) in Tokyo. Native English speaker, Business level in Japanese and Chinese. 
 
-I like building convenient and fun things, like analysis tools powered by AI, and making recreations of classic games. 
+I like building convenient and fun things, like analysis tools powered by AI, and making recreations of classic games. I have recently been getting into competing on Kaggle, working on a customer churn prediction model using LightBGM/CatBoost. 
 
 ---
 
