@@ -12,11 +12,11 @@ I like building convenient and fun things, like analysis tools powered by AI, an
 Unity 2D tile-based board game built from scratch. Japanese-themed strategy game with custom game logic and asset pipeline.
 `Unity` `C#` `Game Design`
 
-### 📊 LoL Patch Impact Analyzer
+### 📊 [LoL Patch Impact Analyzer](https://github.com/tokoyol/patch-impact-analyzer)
 Ingests raw Riot Games patch notes, parses them into normalized JSON, and loads into PostgreSQL. Rule-based classification engine tags buffs/nerfs by stat category, with LLM fallback (Ollama, OpenAI, Gemini) and provider failover logic. REST API for querying across 50+ patch versions.
 `Python` `PostgreSQL` `REST API` `Ollama` `OpenAI` `Gemini`
 
-### 🤖 LoL Matchup Coach
+### 🤖 [LoL Matchup Coach](https://github.com/tokoyol/matchup-coach)
 React web app delivering real-time strategic advice for League of Legends champion matchups. Maps 100+ champion pairings to actionable recommendations via a custom domain model and API pipeline.
 `React` `TypeScript` `REST API`
 
