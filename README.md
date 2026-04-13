@@ -44,5 +44,6 @@ React web app delivering real-time strategic advice for League of Legends champi
 
 ---
 
+🔗 github.com/tokoyol
 📧 lynntokoyoda@gmail.com
 📱 (+1) 224-766-6027 | (+81) 080-9166-5468
